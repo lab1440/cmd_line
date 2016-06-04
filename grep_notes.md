@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-#grep Notes
+#grep notes
 
 Websites
 --------
